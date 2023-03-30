@@ -1,0 +1,64 @@
+    /* ye kr dene se fir body ke bad background color nhi likhna hoga sab yhi se control hoke color change ho jayega */
+    body 
+    {
+      background-color: #EAF6F6;
+    } 
+
+
+
+    /* ye horizontal row jo line hai osko contorl krne ka code hai  */
+    hr
+    {
+
+      border-style: dotted none none none;
+      width: 5%;
+      border-top-width: 5px;
+      border-top-color:grey;  
+
+      /* alternative way to do by angela and mera wala uper wala hai and wo bhi sahi hi hai*/
+      /* border-style: none;
+      border-top-style: dotted;
+      border-width: 5px;
+      width: 5%;
+      border-color: grey; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* ye maine aise hi experiment ke liye banaya tha dekh lena mast hai jaise phone me nichhe me lamba sa rehta h waisa hai */
+      /* background-color: aqua;
+      border-style: none;
+      height: 5px;
+      width: 5%;
+      border-radius: 5px 5px; */
+    }
+
+
+
+
+
+
+
+
+
+    /* so ye tags ke color ko control krega */
+    h1
+    {
+        color: #66BFBF;
+    }
+
+    h3
+    {
+        color:slategray;
+    }
